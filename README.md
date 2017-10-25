@@ -15,4 +15,6 @@ What is jquery?
  
  ## SQL 
  How to find third or nth maximum salary from salary table?
+ 
+select min(employeeid)  from  employees where employeeid in (select top 2 EmployeeID from employees order by EmployeeID desc)
 
