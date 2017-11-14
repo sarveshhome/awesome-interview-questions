@@ -18,3 +18,8 @@ What is jquery?
  
 select min(employeeid)  from  employees where employeeid in (select top 2 EmployeeID from employees order by EmployeeID desc)
 
+## Node.js
+
+what is Promises?
+
+
