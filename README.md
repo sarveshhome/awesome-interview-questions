@@ -1,5 +1,5 @@
 # awesome-interview-questions
-lists of technical interview questions
+lists of technical interview questions and link
 
 
 # Programming Languages/Frameworks/Platforms
@@ -27,3 +27,8 @@ Fulfilled: onFulfilled() will be called (e.g., resolve() was called)
 Rejected: onRejected() will be called (e.g., reject() was called)
 Pending: not yet fulfilled or rejected
 
+
+
+.net 
+
+https://www.youtube.com/watch?v=OFuPd8YiiFQ
