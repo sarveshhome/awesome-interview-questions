@@ -32,3 +32,10 @@ Pending: not yet fulfilled or rejected
 .net 
 
 https://www.youtube.com/watch?v=OFuPd8YiiFQ
+
+
+20 Dotnet Core Interview Questions with Answers
+
+https://www.youtube.com/watch?v=dyr3ly06_DY
+
+
